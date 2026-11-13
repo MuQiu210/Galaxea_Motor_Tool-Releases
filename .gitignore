@@ -1,0 +1,6 @@
+# Release packages are published as GitHub Release assets.
+*.exe
+*.dll
+*.json
+*.log
+*.txt
